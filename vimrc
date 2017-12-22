@@ -9,8 +9,10 @@ set number
 set hlsearch
 set expandtab
 set smartindent
-set shiftwidth=4
-set tabstop=4
+set shiftwidth=2
+set tabstop=2
+
+
 
 set undodir=$HOME/.vim/undohist
 set undofile
